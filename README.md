@@ -149,50 +149,90 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=700&size=17&duration=3400&pause=1000&color=C9D1D9&center=true&vCenter=true&width=1050&height=45&lines=A+LEAN+ROOT.+MODULAR+COMMANDS.+SHARED+LIBRARIES.+PERSISTENT+STATE." alt="Engineering description" />
 </p>
 
-```text
-DeeDevBot-MD/
-│
-├── assets/              Visual assets used by the bot
-├── commands/            Isolated command handlers
-├── data/                JSON state and feature configuration
-├── lib/                 Shared helpers, access checks and utilities
-├── scripts/             Support and maintenance scripts
-├── session/             WhatsApp authentication/session state
-│
-├── .env                 Private environment values
-├── .env.example         Shareable environment template
-├── config.js            Project configuration
-├── settings.js          Bot identity and runtime settings
-├── index.js             Application entry point
-├── main.js              Central message router and dispatcher
-└── package.json         Dependencies and runtime scripts
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"background":"transparent","fontFamily":"Inter, Segoe UI, sans-serif","primaryTextColor":"#E6EDF3","lineColor":"#334155","clusterBkg":"#0B1220","clusterBorder":"#1E293B"}}}%%
+flowchart TB
+    ROOT["DEEDEVBOT MD<br/><sub>MODULAR WHATSAPP ENGINE</sub>"]
+
+    ROOT --> CORE
+    ROOT --> MODULES
+    ROOT --> STATE
+    ROOT --> OPS
+
+    subgraph CORE["RUNTIME CORE"]
+        direction LR
+        INDEX["index.js<br/><sub>application bootstrap</sub>"]
+        MAIN["main.js<br/><sub>message router + dispatcher</sub>"]
+        CONFIG["config.js<br/><sub>project configuration</sub>"]
+        SETTINGS["settings.js<br/><sub>identity + runtime settings</sub>"]
+    end
+
+    subgraph MODULES["FEATURE LAYER"]
+        direction LR
+        COMMANDS["commands/<br/><sub>isolated command handlers</sub>"]
+        LIB["lib/<br/><sub>shared helpers + access utilities</sub>"]
+        ASSETS["assets/<br/><sub>visual resources</sub>"]
+    end
+
+    subgraph STATE["STATE + AUTH"]
+        direction LR
+        DATA["data/<br/><sub>JSON state + feature configuration</sub>"]
+        SESSION["session/<br/><sub>WhatsApp authentication state</sub>"]
+        ENV[".env<br/><sub>private runtime values</sub>"]
+        ENVEX[".env.example<br/><sub>shareable environment template</sub>"]
+    end
+
+    subgraph OPS["OPERATIONS"]
+        direction LR
+        SCRIPTS["scripts/<br/><sub>support + maintenance</sub>"]
+        PACKAGE["package.json<br/><sub>dependencies + runtime scripts</sub>"]
+    end
+
+    classDef root fill:#08111F,stroke:#22D3EE,stroke-width:3px,color:#F8FAFC,font-weight:700;
+    classDef core fill:#0B1220,stroke:#38BDF8,stroke-width:2px,color:#E0F2FE;
+    classDef feature fill:#111827,stroke:#A78BFA,stroke-width:2px,color:#F3E8FF;
+    classDef state fill:#101827,stroke:#34D399,stroke-width:2px,color:#D1FAE5;
+    classDef ops fill:#111827,stroke:#F59E0B,stroke-width:2px,color:#FEF3C7;
+
+    class ROOT root;
+    class INDEX,MAIN,CONFIG,SETTINGS core;
+    class COMMANDS,LIB,ASSETS feature;
+    class DATA,SESSION,ENV,ENVEX state;
+    class SCRIPTS,PACKAGE ops;
 ```
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=19&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=45&lines=RUNTIME+FLOW" alt="Runtime Flow" />
 </p>
 
-```text
-WHATSAPP EVENT
-      │
-      ▼
-   index.js
-      │
-      ▼
-   main.js
-      │
-      ├── normalize message
-      ├── resolve owner / sudo
-      ├── apply public / private gate
-      ├── run moderation layer
-      ├── verify admin permissions
-      └── dispatch command
-               │
-               ▼
-          commands/*.js
-               │
-               ▼
-          WHATSAPP OUTPUT
+```mermaid
+%%{init: {"theme":"base","themeVariables":{"background":"transparent","fontFamily":"Inter, Segoe UI, sans-serif","primaryTextColor":"#E6EDF3","lineColor":"#475569"}}}%%
+flowchart LR
+    EVENT(["WHATSAPP EVENT"])
+    BOOT["index.js<br/><sub>bootstrap</sub>"]
+    ROUTER["main.js<br/><sub>central message router</sub>"]
+    NORMALIZE["NORMALIZE<br/><sub>message + command input</sub>"]
+    IDENTITY["IDENTITY<br/><sub>owner / sudo resolution</sub>"]
+    ACCESS["ACCESS GATE<br/><sub>public / private mode</sub>"]
+    SAFETY["MODERATION<br/><sub>protection layer</sub>"]
+    PERMISSION["PERMISSION<br/><sub>admin + command checks</sub>"]
+    DISPATCH["DISPATCH<br/><sub>route matched command</sub>"]
+    HANDLER["commands/*.js<br/><sub>isolated execution</sub>"]
+    OUTPUT(["WHATSAPP OUTPUT"])
+
+    EVENT ==> BOOT ==> ROUTER ==> NORMALIZE ==> IDENTITY ==> ACCESS ==> SAFETY ==> PERMISSION ==> DISPATCH ==> HANDLER ==> OUTPUT
+
+    classDef edgeNode fill:#07111D,stroke:#22D3EE,stroke-width:3px,color:#F8FAFC,font-weight:700;
+    classDef runtime fill:#0B1220,stroke:#38BDF8,stroke-width:2px,color:#E0F2FE;
+    classDef gate fill:#111827,stroke:#A78BFA,stroke-width:2px,color:#F3E8FF;
+    classDef safety fill:#111827,stroke:#FB7185,stroke-width:2px,color:#FFE4E6;
+    classDef execute fill:#0F172A,stroke:#34D399,stroke-width:2px,color:#D1FAE5;
+
+    class EVENT,OUTPUT edgeNode;
+    class BOOT,ROUTER,NORMALIZE runtime;
+    class IDENTITY,ACCESS,PERMISSION gate;
+    class SAFETY safety;
+    class DISPATCH,HANDLER execute;
 ```
 
 <p align="center">
