@@ -1,270 +1,230 @@
 <!-- ============================================================ -->
-<!--                DeeDevBot MD • Premium README                -->
+<!--                 DEEDEVBOT MD // PREMIUM CORE                -->
 <!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="42" width="100%" alt="glow divider" />
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=38&duration=2600&pause=800&color=00E5FF&center=true&vCenter=true&width=900&height=70&lines=DEeDEVBOT+MD;MULTI-DEVICE+WHATSAPP+SYSTEM" alt="DeeDevBot MD" />
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=900&color=B8C7D9&center=true&vCenter=true&width=980&lines=Automation+%7C+Moderation+%7C+Media+%7C+AI+%7C+Owner+Control;Modular+command+architecture+powered+by+Baileys;Engineered+for+clean+control%2C+fast+execution+and+daily+use" alt="DeeDevBot MD capability line" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="42" width="100%" alt="divider" />
 </p>
 
 <p align="center">
-  <img src="./assets/bot_image.jpg" width="520" alt="DeeDevBot MD Banner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=42&duration=2400&pause=800&color=00E5FF&center=true&vCenter=true&width=1000&height=80&lines=DEEDEVBOT+MD;WHATSAPP+AUTOMATION+CORE" alt="DeeDevBot MD" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NODE.JS-RUNTIME-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-COMMAND_ENGINE-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/WHATSAPP-MULTI--DEVICE-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp Multi Device" />
-  <img src="https://img.shields.io/badge/BAILEYS-CONNECTION_LAYER-0D1117?style=for-the-badge&logoColor=00E5FF" alt="Baileys" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=700&size=20&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=1050&height=45&lines=MODULAR+CONTROL+%E2%80%A2+SMART+AUTOMATION+%E2%80%A2+ADVANCED+MEDIA+%E2%80%A2+OWNER+COMMAND;BUILT+FOR+A+CLEANER%2C+FASTER+AND+MORE+CONTROLLED+WHATSAPP+EXPERIENCE" alt="DeeDevBot positioning" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/217-COMMAND_TRIGGERS_%26_ALIASES-07111D?style=for-the-badge&labelColor=0D1117&color=00B8D9" alt="217 command triggers and aliases" />
-  <img src="https://img.shields.io/badge/ARCHITECTURE-MODULAR-07111D?style=for-the-badge&labelColor=0D1117&color=7C3AED" alt="Modular architecture" />
-  <img src="https://img.shields.io/badge/ACCESS-OWNER_%2F_SUDO-07111D?style=for-the-badge&labelColor=0D1117&color=E11D48" alt="Owner and sudo controls" />
+  <img src="./assets/bot_image.jpg" width="540" alt="DeeDevBot MD" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NODE.JS-RUNTIME-0B1220?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-ENGINE-0B1220?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/BAILEYS-MULTI_DEVICE-0B1220?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="Baileys" />
+  <img src="https://img.shields.io/badge/ARCHITECTURE-MODULAR-0B1220?style=for-the-badge&logo=stackshare&logoColor=00E5FF" alt="Modular" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/217-COMMAND_TRIGGERS_%26_ALIASES-07111D?style=for-the-badge&labelColor=101827&color=00B8D9" alt="217 command triggers and aliases" />
+  <img src="https://img.shields.io/badge/ACCESS-OWNER_%2F_SUDO_%2F_ADMIN-07111D?style=for-the-badge&labelColor=101827&color=7C3AED" alt="Access model" />
+  <img src="https://img.shields.io/badge/MODE-PUBLIC_%2F_PRIVATE-07111D?style=for-the-badge&labelColor=101827&color=E11D48" alt="Public and private mode" />
 </p>
 
 <p align="center">
   <a href="https://whatsapp.com/channel/0029VbBV8Lq5q08UdpLG6J2F">
-    <img src="https://img.shields.io/badge/OFFICIAL_CHANNEL-OPEN-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="Official Channel" />
+    <img src="https://img.shields.io/badge/OFFICIAL_CHANNEL-ENTER-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="Official Channel" />
   </a>
   <a href="https://chat.whatsapp.com/GA4WrOFythU6g3BFVubYM7?mode=wwt">
-    <img src="https://img.shields.io/badge/SUPPORT_GROUP-JOIN-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="Support Group" />
+    <img src="https://img.shields.io/badge/SUPPORT_NETWORK-JOIN-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="Support Group" />
   </a>
 </p>
 
 <p align="center">
-  <b>DeeDevBot MD</b> is a modular WhatsApp automation system built around a central message router and dedicated command modules. Its current command layer combines group administration, moderation, media processing, downloader workflows, AI utilities, automation controls, entertainment, owner tools and advanced message handling in one multi-device bot.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=600&size=18&duration=3600&pause=1200&color=AEB9C6&center=true&vCenter=true&width=1120&height=70&lines=A+multi-device+WhatsApp+control+system+engineered+around+a+central+router+and+isolated+command+modules.;Automation%2C+moderation%2C+media%2C+AI%2C+group+control+and+owner-only+workflows+live+inside+one+cohesive+runtime." alt="DeeDevBot overview" />
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="42" width="100%" alt="glow divider" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="42" width="100%" alt="divider" />
 </p>
 
 <!-- ============================================================ -->
-<!-- SYSTEM PROFILE -->
+<!-- SYSTEM DNA -->
 <!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=24&duration=2400&pause=1200&color=7DD3FC&center=true&vCenter=true&width=760&lines=SYSTEM+PROFILE" alt="System Profile" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=26&duration=2200&pause=1100&color=7DD3FC&center=true&vCenter=true&width=900&height=55&lines=SYSTEM+DNA" alt="System DNA" />
 </p>
 
-> **ONE BOT. MULTIPLE CONTROL LAYERS.**  
-> DeeDevBot MD separates routing, permissions, moderation, automation and command execution so features remain easier to maintain and extend.
-
 <p align="center">
-  <img src="https://img.shields.io/badge/CONTROL-PUBLIC_%2F_PRIVATE_MODE-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/PERMISSIONS-OWNER_%2F_SUDO_%2F_ADMIN-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/MODERATION-ALWAYS_ON_GROUP_LAYER-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/MEDIA-IMAGE_%2F_VIDEO_%2F_STICKER-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/AUTOMATION-STATUS_%2F_READ_%2F_TYPING_%2F_REACTION-111827?style=flat-square" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=700&size=18&duration=3300&pause=1100&color=E5EDF5&center=true&vCenter=true&width=1080&height=70&lines=ONE+ROUTER.+DEDICATED+MODULES.+CONTROLLED+EXECUTION.;Routing%2C+permissions%2C+moderation%2C+automation+and+command+execution+remain+separated+for+cleaner+maintenance." alt="System DNA description" />
 </p>
 
-The current router includes **217 detected command triggers and aliases**, with handlers distributed through the `commands/` directory rather than concentrating every feature inside one file.
-
----
-
-<!-- ============================================================ -->
-<!-- COMMAND MATRIX -->
-<!-- ============================================================ -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=24&duration=2400&pause=1200&color=C4B5FD&center=true&vCenter=true&width=760&lines=COMMAND+MATRIX" alt="Command Matrix" />
+  <img src="https://img.shields.io/badge/CONTROL-PUBLIC_%2F_PRIVATE-111827?style=for-the-badge" alt="Control" />
+  <img src="https://img.shields.io/badge/PERMISSIONS-OWNER_%2F_SUDO_%2F_ADMIN-111827?style=for-the-badge" alt="Permissions" />
+  <img src="https://img.shields.io/badge/MODERATION-GROUP_GUARD-111827?style=for-the-badge" alt="Moderation" />
+  <img src="https://img.shields.io/badge/MEDIA-IMAGE_%2F_VIDEO_%2F_STICKER-111827?style=for-the-badge" alt="Media" />
+  <img src="https://img.shields.io/badge/AUTOMATION-STATUS_%2F_READ_%2F_TYPING_%2F_REACTION-111827?style=for-the-badge" alt="Automation" />
 </p>
 
-<details open>
-<summary><b>01 / CORE CONTROL</b> <code>identity • health • access • owner</code></summary>
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=600&size=17&duration=3600&pause=1000&color=9FB0C0&center=true&vCenter=true&width=1050&height=45&lines=The+current+router+exposes+217+detected+command+triggers+and+aliases+through+modular+handlers+inside+the+commands+layer." alt="Command count" />
+</p>
 
-` .menu ` ` .help ` ` .bot ` ` .list ` ` .ping ` ` .alive ` ` .owner ` ` .settings ` ` .mode ` ` .sudo ` ` .jid ` ` .update ` ` .clearsession ` ` .cleartmp ` ` .setpp `
-
-**Designed for:** bot identity, availability checks, runtime control, owner access and maintenance.
-</details>
-
-<details>
-<summary><b>02 / GROUP COMMAND CENTER</b> <code>administration • membership • group identity</code></summary>
-<br>
-
-` .promote ` ` .demote ` ` .kick ` ` .mute ` ` .unmute ` ` .ban ` ` .unban ` ` .warn ` ` .warnings ` ` .tagall ` ` .tag ` ` .tagnotadmin ` ` .hidetag ` ` .staff ` ` .admins ` ` .groupinfo ` ` .resetlink ` ` .setgdesc ` ` .setgname ` ` .setgpp ` ` .welcome ` ` .goodbye `
-
-**Permission-aware execution:** admin-sensitive operations are checked before they run.
-</details>
-
-<details>
-<summary><b>03 / PROTECTION LAYER</b> <code>moderation • privacy • message protection</code></summary>
-<br>
-
-` .antilink ` ` .antitag ` ` .antibadword ` ` .antidelete ` ` .anticall ` ` .pmblocker `
-
-The message handler also runs group moderation logic before normal command routing where required.
-</details>
-
-<details>
-<summary><b>04 / AUTOMATION SUITE</b> <code>status • receipts • presence • reactions</code></summary>
-<br>
-
-` .autostatus ` ` .autoread ` ` .autotyping ` ` .areact ` ` .autoreact ` ` .autoreaction ` ` .bluetick ` ` .showbluetick `
-
-Includes dedicated logic for automated status handling, read behavior, typing presence, reaction handling and blue-tick controls.
-</details>
-
-<details>
-<summary><b>05 / VIEW-ONCE WORKFLOWS</b> <code>media handling • owner-routed custom flow</code></summary>
-<br>
-
-` .vv ` ` .aaah ` ` .eeeh ` ` .iiih ` ` .oooh ` ` .uuuh `
-
-The custom trigger family is wired to the dedicated `customViewOnce` handler while the normal `.vv` workflow remains separate.
-</details>
-
-<details>
-<summary><b>06 / MEDIA LAB</b> <code>stickers • images • enhancement • conversion</code></summary>
-<br>
-
-` .sticker ` ` .s ` ` .simage ` ` .crop ` ` .blur ` ` .removebg ` ` .rmbg ` ` .nobg ` ` .remini ` ` .enhance ` ` .upscale ` ` .attp ` ` .emojimix ` ` .emix ` ` .tg ` ` .stickertelegram `
-
-Image, sticker and conversion utilities are handled as independent command modules.
-</details>
-
-<details>
-<summary><b>07 / DOWNLOAD ENGINE</b> <code>audio • video • social platforms</code></summary>
-<br>
-
-` .play ` ` .music ` ` .song ` ` .mp3 ` ` .ytmp3 ` ` .video ` ` .ytmp4 ` ` .tiktok ` ` .tt ` ` .instagram ` ` .insta ` ` .ig ` ` .igs ` ` .igsc ` ` .facebook ` ` .fb ` ` .spotify `
-
-Built-in workflows cover major media and social download commands exposed by the current router.
-</details>
-
-<details>
-<summary><b>08 / AI + WEB INTELLIGENCE</b> <code>assistant • generation • translation • web tools</code></summary>
-<br>
-
-` .gpt ` ` .gemini ` ` .imagine ` ` .flux ` ` .dalle ` ` .sora ` ` .translate ` ` .trt ` ` .weather ` ` .news ` ` .lyrics ` ` .ss ` ` .ssweb ` ` .screenshot ` ` .tourl ` ` .url ` ` .tts `
-
-A mixed utility layer for AI prompts, generation, translation, information retrieval and web-based tools.
-</details>
-
-<details>
-<summary><b>09 / GAME DECK</b> <code>interactive • quiz • social play</code></summary>
-<br>
-
-` .ttt ` ` .tictactoe ` ` .move ` ` .surrender ` ` .hangman ` ` .guess ` ` .trivia ` ` .answer ` ` .8ball ` ` .truth ` ` .dare `
-
-Interactive handlers maintain their own game logic while the main router only dispatches commands and moves.
-</details>
-
-<details>
-<summary><b>10 / SOCIAL + ENTERTAINMENT</b> <code>cards • reactions • fun commands</code></summary>
-<br>
-
-` .meme ` ` .joke ` ` .quote ` ` .fact ` ` .compliment ` ` .insult ` ` .flirt ` ` .ship ` ` .character ` ` .waste ` ` .simp ` ` .stupid ` ` .goodnight ` ` .shayari ` ` .roseday ` ` .topmembers `
-</details>
-
-<details>
-<summary><b>11 / ANIME + REACTION PACK</b> <code>reaction media • anime utilities</code></summary>
-<br>
-
-` .animu ` ` .nom ` ` .poke ` ` .cry ` ` .kiss ` ` .pat ` ` .hug ` ` .wink ` ` .facepalm ` ` .face-palm ` ` .animuquote ` ` .loli `
-</details>
-
-<details>
-<summary><b>12 / VISUAL EFFECT ENGINE</b> <code>text art • themed renders • cards</code></summary>
-<br>
-
-` .metallic ` ` .ice ` ` .snow ` ` .impressive ` ` .matrix ` ` .light ` ` .neon ` ` .devil ` ` .purple ` ` .thunder ` ` .leaves ` ` .1917 ` ` .arena ` ` .hacker ` ` .sand ` ` .blackpink ` ` .glitch ` ` .fire ` ` .tweet ` ` .ytcomment ` ` .namecard ` ` .oogway ` ` .oogway2 ` ` .comrade ` ` .glass ` ` .jail ` ` .passed ` ` .triggered `
-</details>
-
----
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="34" width="100%" alt="divider" />
+</p>
 
 <!-- ============================================================ -->
-<!-- ENGINEERING -->
+<!-- COMMAND VAULT -->
 <!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=24&duration=2400&pause=1200&color=67E8F9&center=true&vCenter=true&width=760&lines=ENGINEERING+LAYOUT" alt="Engineering Layout" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=26&duration=2200&pause=1100&color=C4B5FD&center=true&vCenter=true&width=900&height=55&lines=COMMAND+VAULT" alt="Command Vault" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=700&size=17&duration=3400&pause=1000&color=C9D1D9&center=true&vCenter=true&width=1000&height=45&lines=COMMANDS+ARE+GROUPED+BY+PURPOSE%2C+NOT+BY+NOISE.;EVERY+MAJOR+FEATURE+HAS+A+CLEAR+ROLE+INSIDE+THE+BOT." alt="Command vault description" />
+</p>
+
+<p align="center"><img src="https://img.shields.io/badge/01-CORE_CONTROL-0D1117?style=for-the-badge&labelColor=0D1117&color=00B8D9" alt="Core Control" /></p>
+<p align="center"><code>.menu</code> <code>.help</code> <code>.bot</code> <code>.list</code> <code>.ping</code> <code>.alive</code> <code>.owner</code> <code>.settings</code> <code>.mode</code> <code>.sudo</code> <code>.jid</code> <code>.update</code> <code>.clearsession</code> <code>.cleartmp</code> <code>.setpp</code></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=600&size=16&duration=3400&pause=1000&color=8FA3B8&center=true&vCenter=true&width=1000&height=40&lines=Identity%2C+health%2C+runtime+mode%2C+owner+access+and+maintenance+controls." alt="Core control description" /></p>
+
+<p align="center"><img src="https://img.shields.io/badge/02-GROUP_COMMAND_CENTER-0D1117?style=for-the-badge&labelColor=0D1117&color=7C3AED" alt="Group Command Center" /></p>
+<p align="center"><code>.promote</code> <code>.demote</code> <code>.kick</code> <code>.mute</code> <code>.unmute</code> <code>.ban</code> <code>.unban</code> <code>.warn</code> <code>.warnings</code> <code>.tagall</code> <code>.tag</code> <code>.tagnotadmin</code> <code>.hidetag</code> <code>.staff</code> <code>.admins</code> <code>.groupinfo</code> <code>.resetlink</code> <code>.setgdesc</code> <code>.setgname</code> <code>.setgpp</code> <code>.welcome</code> <code>.goodbye</code></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=600&size=16&duration=3400&pause=1000&color=8FA3B8&center=true&vCenter=true&width=1000&height=40&lines=Permission-aware+group+administration%2C+member+control+and+group+identity+management." alt="Group control description" /></p>
+
+<p align="center"><img src="https://img.shields.io/badge/03-PROTECTION_LAYER-0D1117?style=for-the-badge&labelColor=0D1117&color=E11D48" alt="Protection Layer" /></p>
+<p align="center"><code>.antilink</code> <code>.antitag</code> <code>.antibadword</code> <code>.antidelete</code> <code>.anticall</code> <code>.pmblocker</code></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=600&size=16&duration=3400&pause=1000&color=8FA3B8&center=true&vCenter=true&width=1000&height=40&lines=Moderation+and+privacy+controls+run+alongside+normal+message+routing+where+required." alt="Protection description" /></p>
+
+<p align="center"><img src="https://img.shields.io/badge/04-AUTOMATION_SUITE-0D1117?style=for-the-badge&labelColor=0D1117&color=16A34A" alt="Automation Suite" /></p>
+<p align="center"><code>.autostatus</code> <code>.autoread</code> <code>.autotyping</code> <code>.areact</code> <code>.autoreact</code> <code>.autoreaction</code> <code>.bluetick</code> <code>.showbluetick</code></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=600&size=16&duration=3400&pause=1000&color=8FA3B8&center=true&vCenter=true&width=1000&height=40&lines=Status%2C+read-behavior%2C+presence%2C+reaction+and+blue-tick+automation+under+dedicated+control." alt="Automation description" /></p>
+
+<p align="center"><img src="https://img.shields.io/badge/05-VIEW_ONCE_WORKFLOWS-0D1117?style=for-the-badge&labelColor=0D1117&color=F59E0B" alt="View Once Workflows" /></p>
+<p align="center"><code>.vv</code> <code>.aaah</code> <code>.eeeh</code> <code>.iiih</code> <code>.oooh</code> <code>.uuuh</code></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=600&size=16&duration=3400&pause=1000&color=8FA3B8&center=true&vCenter=true&width=1000&height=40&lines=Standard+view-once+handling+and+a+separate+custom+owner-routed+workflow+remain+independently+wired." alt="View once description" /></p>
+
+<p align="center"><img src="https://img.shields.io/badge/06-MEDIA_LAB-0D1117?style=for-the-badge&labelColor=0D1117&color=06B6D4" alt="Media Lab" /></p>
+<p align="center"><code>.sticker</code> <code>.s</code> <code>.simage</code> <code>.crop</code> <code>.blur</code> <code>.removebg</code> <code>.rmbg</code> <code>.nobg</code> <code>.remini</code> <code>.enhance</code> <code>.upscale</code> <code>.attp</code> <code>.emojimix</code> <code>.emix</code> <code>.tg</code> <code>.stickertelegram</code></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=600&size=16&duration=3400&pause=1000&color=8FA3B8&center=true&vCenter=true&width=1000&height=40&lines=Image%2C+sticker%2C+enhancement+and+conversion+utilities+live+inside+focused+media+handlers." alt="Media lab description" /></p>
+
+<p align="center"><img src="https://img.shields.io/badge/07-DOWNLOAD_ENGINE-0D1117?style=for-the-badge&labelColor=0D1117&color=2563EB" alt="Download Engine" /></p>
+<p align="center"><code>.play</code> <code>.music</code> <code>.song</code> <code>.mp3</code> <code>.ytmp3</code> <code>.video</code> <code>.ytmp4</code> <code>.tiktok</code> <code>.tt</code> <code>.instagram</code> <code>.insta</code> <code>.ig</code> <code>.igs</code> <code>.igsc</code> <code>.facebook</code> <code>.fb</code> <code>.spotify</code></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=600&size=16&duration=3400&pause=1000&color=8FA3B8&center=true&vCenter=true&width=1000&height=40&lines=Audio%2C+video+and+social-media+retrieval+workflows+are+exposed+through+the+current+router." alt="Download engine description" /></p>
+
+<p align="center"><img src="https://img.shields.io/badge/08-AI_%2B_WEB_INTELLIGENCE-0D1117?style=for-the-badge&labelColor=0D1117&color=9333EA" alt="AI and Web Intelligence" /></p>
+<p align="center"><code>.gpt</code> <code>.gemini</code> <code>.imagine</code> <code>.flux</code> <code>.dalle</code> <code>.sora</code> <code>.translate</code> <code>.trt</code> <code>.weather</code> <code>.news</code> <code>.lyrics</code> <code>.ss</code> <code>.ssweb</code> <code>.screenshot</code> <code>.tourl</code> <code>.url</code> <code>.tts</code></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=600&size=16&duration=3400&pause=1000&color=8FA3B8&center=true&vCenter=true&width=1000&height=40&lines=AI%2C+generation%2C+translation%2C+information+and+web+utility+commands+share+one+intelligence+layer." alt="AI description" /></p>
+
+<p align="center"><img src="https://img.shields.io/badge/09-GAME_DECK-0D1117?style=for-the-badge&labelColor=0D1117&color=0EA5E9" alt="Game Deck" /></p>
+<p align="center"><code>.ttt</code> <code>.tictactoe</code> <code>.move</code> <code>.surrender</code> <code>.hangman</code> <code>.guess</code> <code>.trivia</code> <code>.answer</code> <code>.8ball</code> <code>.truth</code> <code>.dare</code></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=600&size=16&duration=3400&pause=1000&color=8FA3B8&center=true&vCenter=true&width=1000&height=40&lines=Interactive+game+handlers+keep+their+own+state+while+the+main+router+handles+dispatch." alt="Game deck description" /></p>
+
+<p align="center"><img src="https://img.shields.io/badge/10-SOCIAL_%2B_ENTERTAINMENT-0D1117?style=for-the-badge&labelColor=0D1117&color=EC4899" alt="Social Entertainment" /></p>
+<p align="center"><code>.meme</code> <code>.joke</code> <code>.quote</code> <code>.fact</code> <code>.compliment</code> <code>.insult</code> <code>.flirt</code> <code>.ship</code> <code>.character</code> <code>.waste</code> <code>.simp</code> <code>.stupid</code> <code>.goodnight</code> <code>.shayari</code> <code>.roseday</code> <code>.topmembers</code></p>
+
+<p align="center"><img src="https://img.shields.io/badge/11-ANIME_%2B_REACTION_PACK-0D1117?style=for-the-badge&labelColor=0D1117&color=F97316" alt="Anime Reaction Pack" /></p>
+<p align="center"><code>.animu</code> <code>.nom</code> <code>.poke</code> <code>.cry</code> <code>.kiss</code> <code>.pat</code> <code>.hug</code> <code>.wink</code> <code>.facepalm</code> <code>.face-palm</code> <code>.animuquote</code> <code>.loli</code></p>
+
+<p align="center"><img src="https://img.shields.io/badge/12-VISUAL_EFFECT_ENGINE-0D1117?style=for-the-badge&labelColor=0D1117&color=14B8A6" alt="Visual Effect Engine" /></p>
+<p align="center"><code>.metallic</code> <code>.ice</code> <code>.snow</code> <code>.impressive</code> <code>.matrix</code> <code>.light</code> <code>.neon</code> <code>.devil</code> <code>.purple</code> <code>.thunder</code> <code>.leaves</code> <code>.1917</code> <code>.arena</code> <code>.hacker</code> <code>.sand</code> <code>.blackpink</code> <code>.glitch</code> <code>.fire</code> <code>.tweet</code> <code>.ytcomment</code> <code>.namecard</code> <code>.oogway</code> <code>.oogway2</code> <code>.comrade</code> <code>.glass</code> <code>.jail</code> <code>.passed</code> <code>.triggered</code></p>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="34" width="100%" alt="divider" />
+</p>
+
+<!-- ============================================================ -->
+<!-- ARCHITECTURE -->
+<!-- ============================================================ -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=26&duration=2200&pause=1100&color=67E8F9&center=true&vCenter=true&width=900&height=55&lines=ENGINEERING+LAYOUT" alt="Engineering Layout" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=700&size=17&duration=3400&pause=1000&color=C9D1D9&center=true&vCenter=true&width=1050&height=45&lines=A+LEAN+ROOT.+MODULAR+COMMANDS.+SHARED+LIBRARIES.+PERSISTENT+STATE." alt="Engineering description" />
 </p>
 
 ```text
 DeeDevBot-MD/
 │
-├── assets/              visual assets used by the bot
-├── commands/            modular command handlers
+├── assets/              Visual assets used by the bot
+├── commands/            Isolated command handlers
 ├── data/                JSON state and feature configuration
-├── lib/                 shared helpers, permissions and utilities
-├── scripts/             support and maintenance scripts
+├── lib/                 Shared helpers, access checks and utilities
+├── scripts/             Support and maintenance scripts
 ├── session/             WhatsApp authentication/session state
 │
-├── .env                 environment values
-├── .env.example         environment template
-├── config.js            project configuration
-├── settings.js          bot identity and runtime settings
-├── index.js             application entry point
-├── main.js              central message router / command dispatcher
-└── package.json         dependencies and runtime scripts
+├── .env                 Private environment values
+├── .env.example         Shareable environment template
+├── config.js            Project configuration
+├── settings.js          Bot identity and runtime settings
+├── index.js             Application entry point
+├── main.js              Central message router and dispatcher
+└── package.json         Dependencies and runtime scripts
 ```
 
-### Runtime path
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=19&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=45&lines=RUNTIME+FLOW" alt="Runtime Flow" />
+</p>
 
 ```text
-Incoming WhatsApp Event
-          │
-          ▼
-       index.js
-          │
-          ▼
-       main.js
-          │
-          ├── message normalization
-          ├── owner / sudo resolution
-          ├── public / private mode gate
-          ├── moderation layer
-          ├── admin permission checks
-          └── command dispatcher
-                   │
-                   ▼
-             commands/*.js
-                   │
-                   ▼
-             WhatsApp output
+WHATSAPP EVENT
+      │
+      ▼
+   index.js
+      │
+      ▼
+   main.js
+      │
+      ├── normalize message
+      ├── resolve owner / sudo
+      ├── apply public / private gate
+      ├── run moderation layer
+      ├── verify admin permissions
+      └── dispatch command
+               │
+               ▼
+          commands/*.js
+               │
+               ▼
+          WHATSAPP OUTPUT
 ```
 
-### Runtime housekeeping
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=600&size=17&duration=3600&pause=1000&color=9FB0C0&center=true&vCenter=true&width=1080&height=70&lines=Temporary+runtime+work+is+redirected+away+from+the+host+system+temp+directory.;Scheduled+cleanup+reduces+stale+temporary+files+in+hosted+environments." alt="Runtime housekeeping" />
+</p>
 
-DeeDevBot MD redirects temporary work away from the host system temp directory into the project temp path and includes scheduled cleanup logic to reduce stale temporary-file buildup on hosted environments.
-
----
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="34" width="100%" alt="divider" />
+</p>
 
 <!-- ============================================================ -->
-<!-- INSTALLATION -->
+<!-- LAUNCH -->
 <!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=24&duration=2400&pause=1200&color=A7F3D0&center=true&vCenter=true&width=760&lines=LAUNCH+SEQUENCE" alt="Launch Sequence" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=26&duration=2200&pause=1100&color=A7F3D0&center=true&vCenter=true&width=900&height=55&lines=LAUNCH+SEQUENCE" alt="Launch Sequence" />
 </p>
 
-### 01. Clone the repository
+<p align="center"><img src="https://img.shields.io/badge/STEP_01-CLONE_THE_CORE-111827?style=for-the-badge&labelColor=0D1117&color=0EA5E9" alt="Clone" /></p>
 
 ```bash
-git clone <your-repository-url>
+git clone <YOUR_REPOSITORY_URL>
 cd DeeDevBot-MD
 ```
 
-### 02. Install dependencies
+<p align="center"><img src="https://img.shields.io/badge/STEP_02-INSTALL_DEPENDENCIES-111827?style=for-the-badge&labelColor=0D1117&color=8B5CF6" alt="Install" /></p>
 
 ```bash
 npm install
 ```
 
-### 03. Configure the system
-
-Review the project configuration before first launch:
+<p align="center"><img src="https://img.shields.io/badge/STEP_03-CONFIGURE_RUNTIME-111827?style=for-the-badge&labelColor=0D1117&color=10B981" alt="Configure" /></p>
 
 ```text
 .env
@@ -272,85 +232,77 @@ settings.js
 config.js
 ```
 
-Owner-routed features can use an owner number supplied through the project configuration. Example:
-
 ```env
 OWNER_NUMBER=255XXXXXXXXX
 ```
 
-### 04. Start the bot
+<p align="center"><img src="https://img.shields.io/badge/STEP_04-START_THE_ENGINE-111827?style=for-the-badge&labelColor=0D1117&color=F59E0B" alt="Start" /></p>
 
 ```bash
 node index.js
 ```
 
-Complete the WhatsApp pairing/session process required by your deployment environment, then keep the generated session data private.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=600&size=17&duration=3600&pause=1000&color=9FB0C0&center=true&vCenter=true&width=1050&height=60&lines=Complete+the+WhatsApp+pairing+flow+required+by+your+deployment+environment.;Keep+the+generated+session+state+private." alt="Launch note" />
+</p>
 
----
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="34" width="100%" alt="divider" />
+</p>
 
 <!-- ============================================================ -->
 <!-- SECURITY -->
 <!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=24&duration=2400&pause=1200&color=FDA4AF&center=true&vCenter=true&width=760&lines=SECURITY+BASELINE" alt="Security Baseline" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=26&duration=2200&pause=1100&color=FDA4AF&center=true&vCenter=true&width=900&height=55&lines=SECURITY+BASELINE" alt="Security Baseline" />
 </p>
 
-> **DO NOT PUBLISH LIVE CREDENTIALS.**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=700&size=18&duration=3200&pause=1000&color=FCA5A5&center=true&vCenter=true&width=1000&height=45&lines=NEVER+PUBLISH+LIVE+CREDENTIALS+OR+ACTIVE+SESSION+DATA." alt="Security warning" />
+</p>
 
-Before pushing the repository, verify that sensitive runtime data is excluded from Git history.
+<p align="center">
+  <img src="https://img.shields.io/badge/PRIVATE-.env-111827?style=for-the-badge" alt="env" />
+  <img src="https://img.shields.io/badge/PRIVATE-session%2F-111827?style=for-the-badge" alt="session" />
+  <img src="https://img.shields.io/badge/PRIVATE-API_KEYS-111827?style=for-the-badge" alt="API keys" />
+  <img src="https://img.shields.io/badge/PRIVATE-TOKENS_%26_SECRETS-111827?style=for-the-badge" alt="tokens" />
+</p>
 
-```text
-.env
-session/
-credentials
-API keys
-private tokens
-owner-only secrets
-```
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=600&size=17&duration=3600&pause=1000&color=9FB0C0&center=true&vCenter=true&width=1100&height=70&lines=Use+.env.example+for+shareable+configuration+examples.;Store+live+secrets+inside+.env+or+the+secret+manager+provided+by+your+hosting+platform." alt="Security note" />
+</p>
 
-Use `.env.example` for shareable configuration examples and keep live secrets inside `.env` or your hosting platform's secret manager.
-
----
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="34" width="100%" alt="divider" />
+</p>
 
 <!-- ============================================================ -->
-<!-- PROJECT PRINCIPLES -->
+<!-- PRINCIPLES -->
 <!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=24&duration=2400&pause=1200&color=FDE68A&center=true&vCenter=true&width=760&lines=PROJECT+PRINCIPLES" alt="Project Principles" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=26&duration=2200&pause=1100&color=FDE68A&center=true&vCenter=true&width=900&height=55&lines=PROJECT+PRINCIPLES" alt="Project Principles" />
 </p>
 
-**MODULAR FIRST**  
-New features belong in focused command modules whenever possible.
-
-**PERMISSION AWARE**  
-Owner, sudo and group-admin checks protect privileged actions.
-
-**SOURCE CHAT DISCIPLINE**  
-Special silent workflows can terminate routing early instead of generating unnecessary chat output.
-
-**HOSTING CONSCIOUS**  
-Temporary-file handling and cleanup are built into the runtime flow.
-
-**EXTENSIBLE ROUTER**  
-New commands can be introduced by adding a handler and wiring the trigger into the command dispatcher.
-
----
+<p align="center"><img src="https://img.shields.io/badge/MODULAR_FIRST-FOCUSED_COMMAND_MODULES-0D1117?style=for-the-badge&color=0EA5E9" alt="Modular first" /></p>
+<p align="center"><img src="https://img.shields.io/badge/PERMISSION_AWARE-OWNER_%2F_SUDO_%2F_ADMIN_GATES-0D1117?style=for-the-badge&color=7C3AED" alt="Permission aware" /></p>
+<p align="center"><img src="https://img.shields.io/badge/SOURCE_CHAT_DISCIPLINE-SILENT_FLOWS_CAN_EXIT_EARLY-0D1117?style=for-the-badge&color=E11D48" alt="Source chat discipline" /></p>
+<p align="center"><img src="https://img.shields.io/badge/HOSTING_CONSCIOUS-TEMP_CLEANUP_BUILT_IN-0D1117?style=for-the-badge&color=16A34A" alt="Hosting conscious" /></p>
+<p align="center"><img src="https://img.shields.io/badge/EXTENSIBLE_ROUTER-ADD_HANDLER_%2B_WIRE_TRIGGER-0D1117?style=for-the-badge&color=F59E0B" alt="Extensible router" /></p>
 
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="42" width="100%" alt="glow divider" />
-</p>
-
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=20&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=900&lines=DEeDEVBOT+MD+%E2%80%A2+MODULAR+BY+DESIGN;CONTROL+THE+WORKFLOW+%E2%80%A2+OWN+THE+EXPERIENCE" alt="DeeDevBot MD footer" />
-</h3>
-
-<p align="center">
-  <b>Automation • Moderation • Media • AI • Control</b><br>
-  Built as a practical multi-device WhatsApp command system.
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="42" width="100%" alt="divider" />
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="42" width="100%" alt="glow divider" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=22&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&width=1000&height=60&lines=DEEDEVBOT+MD+%2F%2F+MODULAR+BY+DESIGN;CONTROL+THE+WORKFLOW.+OWN+THE+EXPERIENCE." alt="DeeDevBot footer" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rajdhani&weight=700&size=18&duration=3200&pause=1000&color=9FB0C0&center=true&vCenter=true&width=1000&height=45&lines=AUTOMATION+%E2%80%A2+MODERATION+%E2%80%A2+MEDIA+%E2%80%A2+AI+%E2%80%A2+CONTROL" alt="DeeDevBot capability footer" />
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="42" width="100%" alt="divider" />
 </p>
