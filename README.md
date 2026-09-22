@@ -36,7 +36,7 @@
     <img src="https://img.shields.io/badge/WHATSAPP_CHANNEL-ENTER-07111D?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=0D1117" alt="WhatsApp Channel" />
   </a>
   <a href="https://wa.me/255610783183?text=Hello%2C%20I%20want%20to%20request%20the%20DeeDevBot-MD%20file.">
-    <img src="https://img.shields.io/badge/REQUEST_FILE-%2B255%20610%20783%20183-07111D?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=0D1117" alt="Request DeeDevBot-MD File on WhatsApp" />
+    <img src="https://img.shields.io/badge/REQUEST_FILE-OPEN_WHATSAPP-07111D?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=0D1117" alt="Request DeeDevBot-MD File on WhatsApp" />
   </a>
   <a href="https://youtu.be/Z9fjYETNeBg?si=WCvKWS8xhyc3qui2">
     <img src="https://img.shields.io/badge/YOUTUBE-WATCH_DEMO-07111D?style=for-the-badge&logo=youtube&logoColor=FF0033&labelColor=0D1117" alt="Watch DeeDevBot MD on YouTube" />
