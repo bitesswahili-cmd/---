@@ -1,389 +1,356 @@
-<!-- ========================================================= -->
-<!--                    DeeDevBot MD README                    -->
-<!-- ========================================================= -->
+<!-- ============================================================ -->
+<!--                DeeDevBot MD • Premium README                -->
+<!-- ============================================================ -->
 
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="38" width="100%" alt="divider" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="42" width="100%" alt="glow divider" />
 </p>
 
-<h1 align="center">⚡ DeeDevBot MD ⚡</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=38&duration=2600&pause=800&color=00E5FF&center=true&vCenter=true&width=900&height=70&lines=DEeDEVBOT+MD;MULTI-DEVICE+WHATSAPP+SYSTEM" alt="DeeDevBot MD" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=Advanced+Multi-Device+WhatsApp+Bot;Automation+%7C+Moderation+%7C+Media+%7C+AI;Powerful+Group+Management+and+Owner+Controls;Built+for+Speed%2C+Control+and+Reliability" alt="DeeDevBot MD typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=17&duration=2600&pause=900&color=B8C7D9&center=true&vCenter=true&width=980&lines=Automation+%7C+Moderation+%7C+Media+%7C+AI+%7C+Owner+Control;Modular+command+architecture+powered+by+Baileys;Engineered+for+clean+control%2C+fast+execution+and+daily+use" alt="DeeDevBot MD capability line" />
 </p>
 
 <p align="center">
-  <img src="./assets/bot_image.jpg" width="420" alt="DeeDevBot MD" />
+  <img src="./assets/bot_image.jpg" width="520" alt="DeeDevBot MD Banner" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-Node.js-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/WhatsApp-Multi--Device-111111?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp Multi Device" />
-  <img src="https://img.shields.io/badge/Baileys-WhatsApp%20Web-111111?style=for-the-badge" alt="Baileys" />
-  <img src="https://img.shields.io/badge/Commands-200%2B-111111?style=for-the-badge&logo=probot&logoColor=00D9FF" alt="200+ command triggers and aliases" />
+  <img src="https://img.shields.io/badge/NODE.JS-RUNTIME-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-COMMAND_ENGINE-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/WHATSAPP-MULTI--DEVICE-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp Multi Device" />
+  <img src="https://img.shields.io/badge/BAILEYS-CONNECTION_LAYER-0D1117?style=for-the-badge&logoColor=00E5FF" alt="Baileys" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/217-COMMAND_TRIGGERS_%26_ALIASES-07111D?style=for-the-badge&labelColor=0D1117&color=00B8D9" alt="217 command triggers and aliases" />
+  <img src="https://img.shields.io/badge/ARCHITECTURE-MODULAR-07111D?style=for-the-badge&labelColor=0D1117&color=7C3AED" alt="Modular architecture" />
+  <img src="https://img.shields.io/badge/ACCESS-OWNER_%2F_SUDO-07111D?style=for-the-badge&labelColor=0D1117&color=E11D48" alt="Owner and sudo controls" />
 </p>
 
 <p align="center">
   <a href="https://whatsapp.com/channel/0029VbBV8Lq5q08UdpLG6J2F">
-    <img src="https://img.shields.io/badge/📢_OFFICIAL_CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Official WhatsApp Channel" />
+    <img src="https://img.shields.io/badge/OFFICIAL_CHANNEL-OPEN-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="Official Channel" />
   </a>
   <a href="https://chat.whatsapp.com/GA4WrOFythU6g3BFVubYM7?mode=wwt">
-    <img src="https://img.shields.io/badge/💬_SUPPORT_GROUP-0A66C2?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Support Group" />
+    <img src="https://img.shields.io/badge/SUPPORT_GROUP-JOIN-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="Support Group" />
   </a>
 </p>
 
 <p align="center">
-  <b>DeeDevBot MD</b> is a modular WhatsApp automation bot built around a command-based architecture with group administration, moderation, media processing, download tools, AI utilities, owner controls, games, automation and advanced message handling.
+  <b>DeeDevBot MD</b> is a modular WhatsApp automation system built around a central message router and dedicated command modules. Its current command layer combines group administration, moderation, media processing, downloader workflows, AI utilities, automation controls, entertainment, owner tools and advanced message handling in one multi-device bot.
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="38" width="100%" alt="divider" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="42" width="100%" alt="glow divider" />
 </p>
 
-## ✨ Highlights
+<!-- ============================================================ -->
+<!-- SYSTEM PROFILE -->
+<!-- ============================================================ -->
 
-- ⚡ **Multi-device WhatsApp automation** powered through the Baileys ecosystem.
-- 🧩 **Modular command architecture** with individual handlers inside `commands/`.
-- 🎛️ **Public / private bot mode** with owner and sudo permission checks.
-- 🛡️ **Group protection suite** including anti-link, anti-tag, anti-badword and anti-delete tools.
-- 👑 **Advanced group administration** for promote, demote, kick, mute, ban, warnings, group settings and tagging.
-- 🤖 **AI commands** including GPT/Gemini-style chat, image generation workflows and Sora integration.
-- 🎵 **Media and downloader tools** for YouTube, TikTok, Instagram, Facebook, Spotify and more.
-- 🖼️ **Image and sticker tools** including sticker conversion, crop, blur, background removal, enhancement and emoji mixing.
-- 👁️ **View-once workflows** including standard view-once handling and custom owner-routed triggers.
-- 📲 **Automation controls** for auto-status, auto-read, auto-typing, auto-reaction and blue-tick behavior.
-- 🎮 **Games and entertainment** including Tic-Tac-Toe, Hangman, Trivia, Truth or Dare, jokes, quotes and social cards.
-- 🧹 **Runtime housekeeping** with custom temporary storage handling and periodic cleanup for hosted environments.
-- 📊 **Message activity utilities** including member message counting and top-member commands.
-- 🔐 **Owner-focused controls** for sudo management, sessions, profile settings, updates and system cleanup.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=24&duration=2400&pause=1200&color=7DD3FC&center=true&vCenter=true&width=760&lines=SYSTEM+PROFILE" alt="System Profile" />
+</p>
 
----
+> **ONE BOT. MULTIPLE CONTROL LAYERS.**  
+> DeeDevBot MD separates routing, permissions, moderation, automation and command execution so features remain easier to maintain and extend.
 
-## 🧠 What DeeDevBot MD Can Do
+<p align="center">
+  <img src="https://img.shields.io/badge/CONTROL-PUBLIC_%2F_PRIVATE_MODE-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/PERMISSIONS-OWNER_%2F_SUDO_%2F_ADMIN-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/MODERATION-ALWAYS_ON_GROUP_LAYER-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/MEDIA-IMAGE_%2F_VIDEO_%2F_STICKER-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/AUTOMATION-STATUS_%2F_READ_%2F_TYPING_%2F_REACTION-111827?style=flat-square" />
+</p>
 
-| Category | Included capabilities |
-|---|---|
-| **Core** | `.menu`, `.help`, `.ping`, `.alive`, `.owner`, `.settings`, `.mode` |
-| **Group Admin** | `.promote`, `.demote`, `.kick`, `.mute`, `.unmute`, `.ban`, `.unban`, `.warn`, `.warnings`, `.tagall`, `.hidetag`, `.staff`, `.groupinfo` |
-| **Group Settings** | `.setgdesc`, `.setgname`, `.setgpp`, `.resetlink`, `.welcome`, `.goodbye` |
-| **Protection** | `.antilink`, `.antitag`, `.antibadword`, `.antidelete`, `.pmblocker`, `.anticall` |
-| **Automation** | `.autostatus`, `.autoread`, `.autotyping`, `.areact`, `.autoreact`, `.bluetick`, `.showbluetick` |
-| **View Once** | `.vv`, `.aaah`, `.eeeh`, `.iiih`, `.oooh`, `.uuuh` |
-| **Stickers & Images** | `.sticker`, `.s`, `.simage`, `.crop`, `.blur`, `.removebg`, `.remini`, `.enhance`, `.upscale`, `.attp`, `.emojimix` |
-| **Media Download** | `.play`, `.song`, `.mp3`, `.video`, `.ytmp4`, `.tiktok`, `.instagram`, `.ig`, `.igs`, `.facebook`, `.fb`, `.spotify` |
-| **AI & Smart Tools** | `.gpt`, `.gemini`, `.imagine`, `.dalle`, `.flux`, `.sora`, `.translate`, `.weather`, `.news`, `.lyrics` |
-| **Web & Utility** | `.tourl`, `.url`, `.ss`, `.ssweb`, `.screenshot`, `.tts`, `.github`, `.jid` |
-| **Games** | `.ttt`, `.tictactoe`, `.move`, `.surrender`, `.hangman`, `.guess`, `.trivia`, `.answer`, `.8ball` |
-| **Fun** | `.truth`, `.dare`, `.meme`, `.joke`, `.quote`, `.compliment`, `.insult`, `.flirt`, `.ship`, `.character`, `.waste` |
-| **Anime / Reactions** | `.animu`, `.nom`, `.poke`, `.cry`, `.kiss`, `.pat`, `.hug`, `.wink`, `.facepalm`, `.loli` |
-| **Text Effects** | `.metallic`, `.ice`, `.snow`, `.matrix`, `.neon`, `.thunder`, `.hacker`, `.blackpink`, `.glitch`, `.fire` and more |
-| **Owner / System** | `.sudo`, `.clearsession`, `.cleartmp`, `.setpp`, `.update` |
-
-> The table shows the main commands and aliases currently wired into the bot. DeeDevBot MD contains **200+ command triggers and aliases** across its full command router.
+The current router includes **217 detected command triggers and aliases**, with handlers distributed through the `commands/` directory rather than concentrating every feature inside one file.
 
 ---
 
-## 🏗️ Project Structure
+<!-- ============================================================ -->
+<!-- COMMAND MATRIX -->
+<!-- ============================================================ -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=24&duration=2400&pause=1200&color=C4B5FD&center=true&vCenter=true&width=760&lines=COMMAND+MATRIX" alt="Command Matrix" />
+</p>
+
+<details open>
+<summary><b>01 / CORE CONTROL</b> <code>identity • health • access • owner</code></summary>
+<br>
+
+` .menu ` ` .help ` ` .bot ` ` .list ` ` .ping ` ` .alive ` ` .owner ` ` .settings ` ` .mode ` ` .sudo ` ` .jid ` ` .update ` ` .clearsession ` ` .cleartmp ` ` .setpp `
+
+**Designed for:** bot identity, availability checks, runtime control, owner access and maintenance.
+</details>
+
+<details>
+<summary><b>02 / GROUP COMMAND CENTER</b> <code>administration • membership • group identity</code></summary>
+<br>
+
+` .promote ` ` .demote ` ` .kick ` ` .mute ` ` .unmute ` ` .ban ` ` .unban ` ` .warn ` ` .warnings ` ` .tagall ` ` .tag ` ` .tagnotadmin ` ` .hidetag ` ` .staff ` ` .admins ` ` .groupinfo ` ` .resetlink ` ` .setgdesc ` ` .setgname ` ` .setgpp ` ` .welcome ` ` .goodbye `
+
+**Permission-aware execution:** admin-sensitive operations are checked before they run.
+</details>
+
+<details>
+<summary><b>03 / PROTECTION LAYER</b> <code>moderation • privacy • message protection</code></summary>
+<br>
+
+` .antilink ` ` .antitag ` ` .antibadword ` ` .antidelete ` ` .anticall ` ` .pmblocker `
+
+The message handler also runs group moderation logic before normal command routing where required.
+</details>
+
+<details>
+<summary><b>04 / AUTOMATION SUITE</b> <code>status • receipts • presence • reactions</code></summary>
+<br>
+
+` .autostatus ` ` .autoread ` ` .autotyping ` ` .areact ` ` .autoreact ` ` .autoreaction ` ` .bluetick ` ` .showbluetick `
+
+Includes dedicated logic for automated status handling, read behavior, typing presence, reaction handling and blue-tick controls.
+</details>
+
+<details>
+<summary><b>05 / VIEW-ONCE WORKFLOWS</b> <code>media handling • owner-routed custom flow</code></summary>
+<br>
+
+` .vv ` ` .aaah ` ` .eeeh ` ` .iiih ` ` .oooh ` ` .uuuh `
+
+The custom trigger family is wired to the dedicated `customViewOnce` handler while the normal `.vv` workflow remains separate.
+</details>
+
+<details>
+<summary><b>06 / MEDIA LAB</b> <code>stickers • images • enhancement • conversion</code></summary>
+<br>
+
+` .sticker ` ` .s ` ` .simage ` ` .crop ` ` .blur ` ` .removebg ` ` .rmbg ` ` .nobg ` ` .remini ` ` .enhance ` ` .upscale ` ` .attp ` ` .emojimix ` ` .emix ` ` .tg ` ` .stickertelegram `
+
+Image, sticker and conversion utilities are handled as independent command modules.
+</details>
+
+<details>
+<summary><b>07 / DOWNLOAD ENGINE</b> <code>audio • video • social platforms</code></summary>
+<br>
+
+` .play ` ` .music ` ` .song ` ` .mp3 ` ` .ytmp3 ` ` .video ` ` .ytmp4 ` ` .tiktok ` ` .tt ` ` .instagram ` ` .insta ` ` .ig ` ` .igs ` ` .igsc ` ` .facebook ` ` .fb ` ` .spotify `
+
+Built-in workflows cover major media and social download commands exposed by the current router.
+</details>
+
+<details>
+<summary><b>08 / AI + WEB INTELLIGENCE</b> <code>assistant • generation • translation • web tools</code></summary>
+<br>
+
+` .gpt ` ` .gemini ` ` .imagine ` ` .flux ` ` .dalle ` ` .sora ` ` .translate ` ` .trt ` ` .weather ` ` .news ` ` .lyrics ` ` .ss ` ` .ssweb ` ` .screenshot ` ` .tourl ` ` .url ` ` .tts `
+
+A mixed utility layer for AI prompts, generation, translation, information retrieval and web-based tools.
+</details>
+
+<details>
+<summary><b>09 / GAME DECK</b> <code>interactive • quiz • social play</code></summary>
+<br>
+
+` .ttt ` ` .tictactoe ` ` .move ` ` .surrender ` ` .hangman ` ` .guess ` ` .trivia ` ` .answer ` ` .8ball ` ` .truth ` ` .dare `
+
+Interactive handlers maintain their own game logic while the main router only dispatches commands and moves.
+</details>
+
+<details>
+<summary><b>10 / SOCIAL + ENTERTAINMENT</b> <code>cards • reactions • fun commands</code></summary>
+<br>
+
+` .meme ` ` .joke ` ` .quote ` ` .fact ` ` .compliment ` ` .insult ` ` .flirt ` ` .ship ` ` .character ` ` .waste ` ` .simp ` ` .stupid ` ` .goodnight ` ` .shayari ` ` .roseday ` ` .topmembers `
+</details>
+
+<details>
+<summary><b>11 / ANIME + REACTION PACK</b> <code>reaction media • anime utilities</code></summary>
+<br>
+
+` .animu ` ` .nom ` ` .poke ` ` .cry ` ` .kiss ` ` .pat ` ` .hug ` ` .wink ` ` .facepalm ` ` .face-palm ` ` .animuquote ` ` .loli `
+</details>
+
+<details>
+<summary><b>12 / VISUAL EFFECT ENGINE</b> <code>text art • themed renders • cards</code></summary>
+<br>
+
+` .metallic ` ` .ice ` ` .snow ` ` .impressive ` ` .matrix ` ` .light ` ` .neon ` ` .devil ` ` .purple ` ` .thunder ` ` .leaves ` ` .1917 ` ` .arena ` ` .hacker ` ` .sand ` ` .blackpink ` ` .glitch ` ` .fire ` ` .tweet ` ` .ytcomment ` ` .namecard ` ` .oogway ` ` .oogway2 ` ` .comrade ` ` .glass ` ` .jail ` ` .passed ` ` .triggered `
+</details>
+
+---
+
+<!-- ============================================================ -->
+<!-- ENGINEERING -->
+<!-- ============================================================ -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=24&duration=2400&pause=1200&color=67E8F9&center=true&vCenter=true&width=760&lines=ENGINEERING+LAYOUT" alt="Engineering Layout" />
+</p>
 
 ```text
 DeeDevBot-MD/
-├── assets/          # Bot images and media assets
-├── commands/        # Modular command handlers
-├── data/            # Persistent JSON/config state
-├── lib/             # Shared helpers and core utilities
-├── scripts/         # Maintenance / support scripts
-├── session/         # WhatsApp session data
-├── .env             # Environment configuration
-├── config.js        # Main configuration support
-├── index.js         # Bot entry point
-├── main.js          # Message router and command dispatcher
-├── package.json     # Node.js dependencies and scripts
-└── settings.js      # Bot identity and runtime settings
+│
+├── assets/              visual assets used by the bot
+├── commands/            modular command handlers
+├── data/                JSON state and feature configuration
+├── lib/                 shared helpers, permissions and utilities
+├── scripts/             support and maintenance scripts
+├── session/             WhatsApp authentication/session state
+│
+├── .env                 environment values
+├── .env.example         environment template
+├── config.js            project configuration
+├── settings.js          bot identity and runtime settings
+├── index.js             application entry point
+├── main.js              central message router / command dispatcher
+└── package.json         dependencies and runtime scripts
 ```
 
-### Core flow
+### Runtime path
 
 ```text
-WhatsApp Event
-     │
-     ▼
-  index.js
-     │
-     ▼
-  main.js
-     │
-     ├── Permission / mode checks
-     ├── Moderation handlers
-     ├── Automation handlers
-     └── Command router
-              │
-              ▼
-        commands/*.js
-              │
-              ▼
-       WhatsApp response
+Incoming WhatsApp Event
+          │
+          ▼
+       index.js
+          │
+          ▼
+       main.js
+          │
+          ├── message normalization
+          ├── owner / sudo resolution
+          ├── public / private mode gate
+          ├── moderation layer
+          ├── admin permission checks
+          └── command dispatcher
+                   │
+                   ▼
+             commands/*.js
+                   │
+                   ▼
+             WhatsApp output
 ```
+
+### Runtime housekeeping
+
+DeeDevBot MD redirects temporary work away from the host system temp directory into the project temp path and includes scheduled cleanup logic to reduce stale temporary-file buildup on hosted environments.
 
 ---
 
-## 🚀 Quick Start
+<!-- ============================================================ -->
+<!-- INSTALLATION -->
+<!-- ============================================================ -->
 
-### 1. Requirements
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=24&duration=2400&pause=1200&color=A7F3D0&center=true&vCenter=true&width=760&lines=LAUNCH+SEQUENCE" alt="Launch Sequence" />
+</p>
 
-Make sure your environment has:
+### 01. Clone the repository
 
-- **Node.js**
-- **npm**
-- A WhatsApp account for pairing/session authentication
-- Internet access for commands that depend on external services
+```bash
+git clone <your-repository-url>
+cd DeeDevBot-MD
+```
 
-### 2. Install dependencies
+### 02. Install dependencies
 
 ```bash
 npm install
 ```
 
-### 3. Configure the bot
+### 03. Configure the system
 
-Review and configure:
+Review the project configuration before first launch:
 
 ```text
-settings.js
 .env
+settings.js
 config.js
 ```
 
-For owner-routed features, ensure the owner number is configured correctly through the bot settings or environment configuration.
-
-Example environment value:
+Owner-routed features can use an owner number supplied through the project configuration. Example:
 
 ```env
 OWNER_NUMBER=255XXXXXXXXX
 ```
 
-Use the international number format without `+` unless your local configuration explicitly expects otherwise.
-
-### 4. Start DeeDevBot MD
+### 04. Start the bot
 
 ```bash
 node index.js
 ```
 
-When the bot starts successfully, complete the required WhatsApp pairing/session process for your setup.
+Complete the WhatsApp pairing/session process required by your deployment environment, then keep the generated session data private.
 
 ---
 
-## ⚙️ Main Automation & Control Features
+<!-- ============================================================ -->
+<!-- SECURITY -->
+<!-- ============================================================ -->
 
-### 🟢 Auto Status
-Control automated status handling from the bot using the existing auto-status command system.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=24&duration=2400&pause=1200&color=FDA4AF&center=true&vCenter=true&width=760&lines=SECURITY+BASELINE" alt="Security Baseline" />
+</p>
 
-### 🔵 Blue Tick Controls
-DeeDevBot MD includes dedicated blue-tick/read-receipt command logic alongside auto-read behavior.
+> **DO NOT PUBLISH LIVE CREDENTIALS.**
 
-### ⌨️ Auto Typing
-Typing-presence automation is integrated into normal messages and supported commands.
-
-### ❤️ Auto Reaction
-Reaction handling can be controlled through `.areact`, `.autoreact` and related command aliases.
-
-### 🚫 PM Blocker
-The bot can restrict non-owner private messages when the PM blocker is enabled.
-
-### 📞 Anti Call
-Owner-controlled anti-call functionality is available through `.anticall`.
-
-### 🗑️ Anti Delete
-Messages can be stored and handled through the anti-delete system when configured.
-
-### 👁️ View-Once Handling
-The bot includes normal `.vv` handling plus custom triggers:
-
-```text
-.aaah
-.eeeh
-.iiih
-.oooh
-.uuuh
-```
-
-The custom workflow is designed to route its processed result to the configured owner while keeping the source command flow silent.
-
----
-
-## 🛡️ Group Moderation
-
-DeeDevBot MD includes several layers of group control:
-
-```text
-Anti-Link      → Link protection and moderation
-Anti-Tag       → Tag-related protection
-Anti-Badword   → Bad-word filtering
-Anti-Delete    → Deleted-message handling
-Warnings       → Member warning management
-Ban / Unban    → Bot-level user restrictions
-Mute / Unmute  → Group messaging controls
-Promote/Demote → Admin management
-Kick           → Member removal
-```
-
-Administrative commands perform permission checks before sensitive group actions are executed.
-
----
-
-## 🎨 Media & Creative Tools
-
-DeeDevBot MD includes a large collection of creative and media commands:
-
-- Sticker creation and sticker-to-image conversion
-- Sticker crop support
-- Image blur
-- Background removal
-- Image enhancement / upscale workflows
-- Emoji mixing
-- Telegram sticker utilities
-- Text effects and themed image generators
-- Screenshot / web screenshot tools
-- Image generation commands
-- Social-style cards and meme utilities
-
----
-
-## 🎧 Download & Social Media Tools
-
-Supported command workflows include:
-
-```text
-YouTube     → Play, audio and video commands
-TikTok      → TikTok media handling
-Instagram   → Posts / reels plus IGS workflows
-Facebook    → Facebook media handling
-Spotify     → Spotify command workflow
-URL Tools   → Media-to-URL utilities
-```
-
-Availability can depend on the external service, endpoint or API used by the relevant command module.
-
----
-
-## 🧹 Hosting Reliability
-
-The main message system includes hosted-environment protections such as:
-
-- Custom temporary directory handling
-- Automatic temporary-file cleanup
-- Reduced dependency on the host system `/tmp`
-- Command-level error handling
-- Public/private access mode checks
-- Owner/sudo authorization
-- Group-admin validation for sensitive actions
-
-These features help keep the bot stable during long-running sessions and media-heavy workloads.
-
----
-
-## 🔐 Security Before Publishing
-
-If you are uploading DeeDevBot MD to a public GitHub repository, **never commit private credentials**.
-
-Make sure these remain private:
+Before pushing the repository, verify that sensitive runtime data is excluded from Git history.
 
 ```text
 .env
 session/
-WhatsApp credentials / auth files
+credentials
 API keys
-OWNER_NUMBER if you do not want it public
-private JSON credentials
+private tokens
+owner-only secrets
 ```
 
-Recommended `.gitignore` coverage:
-
-```gitignore
-node_modules/
-.env
-session/
-temp/
-*.log
-```
-
-> Before your first `git push`, inspect the staged files with `git status` and confirm that no session credentials, tokens or private keys are included.
+Use `.env.example` for shareable configuration examples and keep live secrets inside `.env` or your hosting platform's secret manager.
 
 ---
 
-## 🧩 Adding a New Command
-
-The project is structured so command logic can stay isolated inside `commands/`.
-
-Typical pattern:
-
-```text
-1. Create commands/yourcommand.js
-2. Export the command handler
-3. Import it in main.js
-4. Add its case to the main command router
-5. Restart and test the bot
-```
-
-This keeps features modular and makes future maintenance easier.
-
----
-
-## 💻 Development
-
-For local development:
-
-```bash
-npm install
-node index.js
-```
-
-When making changes:
-
-1. Keep new command logic inside the appropriate module.
-2. Avoid modifying unrelated features.
-3. Test syntax before deployment.
-4. Test owner/admin permission behavior separately.
-5. Test both private and group message flows where relevant.
-
----
-
-## 📣 Community
+<!-- ============================================================ -->
+<!-- PROJECT PRINCIPLES -->
+<!-- ============================================================ -->
 
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029VbBV8Lq5q08UdpLG6J2F">
-    <img src="https://img.shields.io/badge/Follow-DeeDevBot_MD_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="DeeDevBot MD Channel" />
-  </a>
-  <a href="https://chat.whatsapp.com/GA4WrOFythU6g3BFVubYM7?mode=wwt">
-    <img src="https://img.shields.io/badge/Join-Support_Group-0A66C2?style=for-the-badge&logo=whatsapp&logoColor=white" alt="DeeDevBot MD Support" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=24&duration=2400&pause=1200&color=FDE68A&center=true&vCenter=true&width=760&lines=PROJECT+PRINCIPLES" alt="Project Principles" />
 </p>
 
----
+**MODULAR FIRST**  
+New features belong in focused command modules whenever possible.
 
-## ⚠️ Disclaimer
+**PERMISSION AWARE**  
+Owner, sudo and group-admin checks protect privileged actions.
 
-DeeDevBot MD is an independent automation project and is **not affiliated with, endorsed by, or officially connected to WhatsApp or Meta**.
+**SOURCE CHAT DISCIPLINE**  
+Special silent workflows can terminate routing early instead of generating unnecessary chat output.
 
-Use the bot responsibly, respect user privacy, comply with applicable laws and platform rules, and only deploy features in environments where you are authorized to operate them.
+**HOSTING CONSCIOUS**  
+Temporary-file handling and cleanup are built into the runtime flow.
+
+**EXTENSIBLE ROUTER**  
+New commands can be introduced by adding a handler and wiring the trigger into the command dispatcher.
 
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="38" width="100%" alt="divider" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="42" width="100%" alt="glow divider" />
 </p>
 
-<h3 align="center">⚡ DeeDevBot MD</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=20&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=900&lines=DEeDEVBOT+MD+%E2%80%A2+MODULAR+BY+DESIGN;CONTROL+THE+WORKFLOW+%E2%80%A2+OWN+THE+EXPERIENCE" alt="DeeDevBot MD footer" />
+</h3>
 
 <p align="center">
-  <b>Automation • Moderation • Media • AI • Control</b><br/>
-  Built as a modular WhatsApp bot for powerful everyday automation.
+  <b>Automation • Moderation • Media • AI • Control</b><br>
+  Built as a practical multi-device WhatsApp command system.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=25D366&center=true&vCenter=true&width=700&lines=Fast.+Modular.+Feature-Rich.;DeeDevBot+MD+%E2%9A%A1" alt="Footer typing animation" />
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="38" width="100%" alt="divider" />
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="42" width="100%" alt="glow divider" />
 </p>
